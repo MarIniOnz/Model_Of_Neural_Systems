@@ -1,5 +1,5 @@
 # Model_Of_Neural_Systems
-All exercises of the Module Model Of Neural Systems BCCN 2020-2021
+Exercises of the Module Model Of Neural Systems. Neuron simulations, synaptic currents and HH models.
 ## Topic 1
 Simulation of a McCulloch-Pitts neuron, which different activation functions (Sigmoid, Hyperbolic tangent, and Piecesiese linear can be used). Rosenblatt's perceptron and XOR function.
 
